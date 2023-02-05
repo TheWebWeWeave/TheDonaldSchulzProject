@@ -20,7 +20,7 @@ pipeline {
 
         stage("Build") {
             steps {
-                sh 'docker image build --no-cache --rm -f ./buildDockerfile -t donaldschulz .'
+                sh 'docker image build --no-cache --rm -f ./build/Dockerfile -t donaldschulz .'
             }
         }
 
