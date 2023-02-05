@@ -68,7 +68,7 @@ pipeline {
             }
             steps {
                 sh 'docker login -u schulzdl -p $DOCKER_TOKEN'
-                sh "docker tag donaldschulz schulzdl/donaldschulz:v$(semver)"
+                sh "docker tag donaldschulz schulzdl/donaldschulz:v${semver}"
                 sh "docker push schulzdl/donaldschulz:v${semver}"
             }
         }
