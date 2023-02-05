@@ -1,0 +1,31 @@
+version: '3.3'
+
+networks:
+    app-net:
+        external:
+            name: nat
+         
+services:
+    donaldonsoftware:
+        image: schulzdl/donaldschulz:v${semver}
+        container_name: donaldschulz
+        restart: always
+        expose:
+            - 80
+        environment: 
+            - "VIRTUAL_HOST=donaldschulz.com"
+            - "LETSENCRYPT_HOST=donaldschulz.com"                      
+        networks: 
+            - app-net
+
+    www-donaldschulz:
+        image: schulzdl/donaldschulz:v${semver}
+        container_name: www-donaldschulz
+        restart: always
+        expose:
+            - 80
+        environment: 
+            - "VIRTUAL_HOST=www.donaldschulz.com"
+            - "LETSENCRYPT_HOST=www.donaldschulz.com"                   
+        networks: 
+            - app-net  

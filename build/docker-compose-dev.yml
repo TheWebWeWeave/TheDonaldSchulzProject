@@ -1,0 +1,18 @@
+version: '3.3'
+
+networks:
+    app-net:
+        external:
+            name: nat
+         
+services:
+    dev_donaldonsoftware:
+        image: schulzdl/donaldschulz:v${semver}
+        container_name: dev_donaldschulz
+        restart: always
+        expose:
+            - 80
+        environment: 
+            - "VIRTUAL_HOST=dev.donaldschulz.com"      
+        networks: 
+            - app-net

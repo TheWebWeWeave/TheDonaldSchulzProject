@@ -1,0 +1,118 @@
+@Library('pipeline-library') _
+
+pipeline {
+
+    agent any
+
+    environment {
+        DOCKER_TOKEN=credentials('docker_token')
+        NEWPATH=pwd().replace("/var/", "/docker/")
+        semver=gitVersion(newpath: pwd().replace("/var/", "/docker/").replace("-", "_"))
+    }
+
+    stages {
+
+        stage("Initialization") {
+            steps {
+                sh "docker version && docker-compose version"
+            }
+        }
+
+        stage("Build") {
+            steps {
+                sh 'docker image build --no-cache --rm -f ./buildDockerfile -t donaldschulz .'
+            }
+        }
+
+        stage("Test-Image") {
+            steps {
+                script {
+                    try {
+                        def status = 0
+                        status = sh(returnStdout: true, script: "container-structure-test test --image 'donaldschulz' --config './testDockerTest/unit-test.yaml' --verbosity 'debug' --json | jq .Fail") as Integer
+                        echo "$status"
+                        if (status != 0) {
+                            error 'Image Test has failed'
+                        }
+                    } catch (err) {
+                        echo "$err"
+                        error "Test-Image ERROR: The execution of the container structure tests failed, see the log for details."
+                    }
+                }
+            }
+            post {
+                success {
+                    createSuccessBadge(
+                        imageName: 'donaldSchulz.svg',
+                        prodName: 'Donald',
+                        semver: "$(semver)",
+                        token: '132bc0b92c4749ac87e46bd5b905e7f9bf8be431c5cc8b350277d0fb007b05e4/68747470733a2f2f62616467652e743377696e632e636f6d2f696d616765732f626c6f674275696c642e737667'
+                    )
+                }
+                failure {
+                    createFailureBadge(
+                        imageName: 'donaldSchulz.svg',
+                        prodName: 'Donald',
+                        semver: "$(semver)",
+                        token: '132bc0b92c4749ac87e46bd5b905e7f9bf8be431c5cc8b350277d0fb007b05e4/68747470733a2f2f62616467652e743377696e632e636f6d2f696d616765732f626c6f674275696c642e737667'                        
+                    )
+                }
+            }
+        }
+
+        stage('Publish-Topic') {
+            when {
+                not {
+                    branch 'pull/*'
+                }
+            }
+            steps {
+                sh 'docker login -u schulzdl -p $DOCKER_TOKEN'
+                sh "docker tag donaldschulz schulzdl/donaldschulz:v$(semver)"
+                sh "docker push schulzdl/donaldschulz:v$(semver)"
+            }
+        }
+
+        stage('Publish-Master') {
+            when {
+                environment name: 'BRANCH_NAME', value: 'master'
+            }
+            steps {
+                sh 'docker login -u schulzdl -p $DOCKER_TOKEN'
+                sh "docker tag schulzdl/donaldschulz:v$(semver) schulzdl/donaldschulz:latest"
+                sh "docker push schulzdl/donaldschulz:latest"
+            }
+        }
+
+        stage('Deploy') {
+            when {
+                not {
+                    branch 'pull/*'
+                }
+            }
+            steps {
+                sh 'docker-compose -f ./build/docker-compose-dev.yml up -d'
+            }
+        }
+
+        stage('Release') {
+            agent {
+                label 'AWS-Jenkins-Slave'
+            }
+            when {
+                environment name: 'BRANCH_NAME', value: 'master'
+            }
+            steps {
+                input 'Release to Production?'
+                sh 'docker-compose -f ./build/docker-compose-prod.yml up -d'
+            }
+        }
+    }
+
+    post {
+        always {
+            cleanWs()
+        }
+    }
+
+}

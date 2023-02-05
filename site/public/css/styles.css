@@ -1,0 +1,8 @@
+/* Globals */
+
+.left, .alignleft {
+    float: left;
+}
+.right, .alignright {
+    float: right;
+}
