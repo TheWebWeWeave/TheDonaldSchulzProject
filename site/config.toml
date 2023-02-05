@@ -2,7 +2,7 @@ baseurl = "/"
 title = "The Donald Schulz Project"
 theme = "hugo-theme-nix2"
 languageCode = "en-us"
-disqusShortname = "your_disqus_shortname"
+disqusShortname = "donaldlschulz"
 
 [menu]
   [[menu.header]]
