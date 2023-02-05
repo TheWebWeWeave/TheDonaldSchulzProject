@@ -8,7 +8,7 @@ networks:
 services:
     dev_donaldonsoftware:
         image: schulzdl/donaldschulz:v${semver}
-        container_name: dev_donaldschulz
+        container_name: dev-donaldschulz
         restart: always
         expose:
             - 80
