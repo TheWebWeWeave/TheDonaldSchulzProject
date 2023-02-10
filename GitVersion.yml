@@ -1,0 +1,18 @@
+mode: Mainline
+next-version: "1.0.0"
+branches:
+  breaking:
+    regex: ^breaking?[/-]
+    tag: "preview"
+    source-branches:
+    - develop
+    - feature
+    - hotfix
+    - support
+    is-mainline: false
+  feature:
+    tag: "alpha"
+  hotfix:
+    tag: "beta"
+  master:
+    tag: ''
