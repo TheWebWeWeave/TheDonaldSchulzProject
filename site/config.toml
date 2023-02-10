@@ -6,13 +6,17 @@ disqusShortname = "donaldlschulz"
 
 [menu]
   [[menu.header]]
-    name = "post"
+    name = "news"
     weight = 0
     url = "post"
   [[menu.header]]
     name = "about"
     weight = 1
     url = "about"
+  [[menu.header]]
+    name = "songs"
+    weight = 2
+    url = "songs"
 
 [params]
   GithubID = "SchulzDL"
@@ -29,7 +33,7 @@ disqusShortname = "donaldlschulz"
   HeaderUsername = ""
   HeaderHostname = "The Donald Schulz Project"
   Email = "donald@schulz.com"
-  About = "Hi I'm Donald and this is my web site where I like to share the new music that I am working on and provide some background on the songs I am releasing. Enjoy!"
+  About = 'Welcome to the official website for all things pertaining to "The Donald Schulz Project".  Please sign up for our newsletter which is just an email that will be sent when ever we have news to share or annouce new songs that we just released.  Get the latest before anyone else does.  Thank you for stopping by.  Background information on the songs can be found under the songs menu.'
   ProfilePicture = "images/logo.png"
   Favicon = "images/favicon.png"
   BlogOnIndex = false
