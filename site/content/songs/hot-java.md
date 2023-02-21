@@ -10,7 +10,7 @@ categories = [
 ]
 menu = "main"
 image = "/images/HotJava.png"
-nocomments = true
+nocomments = false
 +++
 
 This music was performed for the first time at my Mom and Dad's 25th Wedding Anniversary.  Several years later I rearranged the music and recording this in a 24 track studio in Edmonton, Alberta with some friends and some additional professional musicians.  This was a very limited release and one of the last things that I pressed into vinyl.  The music centers around a good cup of coffee and one of the signs that indicated to us as kids that company was coming with the very loud perculator that would be whooshing away making that hot cup of java.
