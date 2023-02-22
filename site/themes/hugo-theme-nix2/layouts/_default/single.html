@@ -19,6 +19,9 @@
                     {{ end }}
                     {{ .Content }}
                 </div>
+                {{ if .Params.soundCloudId }}
+                    {{ partial "player.html" }}
+                {{ end }}
                 {{ if ne .Params.nocomments true }}
                 <div class="post-comments">
                     {{ template "_internal/disqus.html" . }}

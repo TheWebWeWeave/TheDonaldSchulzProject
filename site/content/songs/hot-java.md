@@ -11,6 +11,7 @@ categories = [
 menu = "main"
 image = "/images/HotJava.png"
 nocomments = false
+soundCloudId = "hot-java-1"
 +++
 
 This music was performed for the first time at my Mom and Dad's 25th Wedding Anniversary.  Several years later I rearranged the music and recording this in a 24 track studio in Edmonton, Alberta with some friends and some additional professional musicians.  This was a very limited release and one of the last things that I pressed into vinyl.  The music centers around a good cup of coffee and one of the signs that indicated to us as kids that company was coming with the very loud perculator that would be whooshing away making that hot cup of java.
@@ -24,3 +25,5 @@ For your convenience I have a Presave link that you can use to add it to your li
 [PreSave Link](https://gate.fm/HuGNfTr)
 
 [To Purchase Hot Java, this link takes you to my BandCamp account](https://thedonaldschulzproject.bandcamp.com)
+
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fthunderfoot-430950952&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
