@@ -22,6 +22,13 @@
                 {{ if .Params.soundCloudId }}
                     {{ partial "player.html" }}
                 {{ end }}
+                {{ if eq .Params.signUp true }}
+                <div class="row">
+					<div class="col=lg-4 offset-lg-3 text-center">
+						<script async src="https://eocampaign1.com/form/e988abfc-a8a2-11ed-88e9-0d231eaceef0.js" data-form="e988abfc-a8a2-11ed-88e9-0d231eaceef0"></script>
+					</div>
+				</div>
+                {{ end }}
                 {{ if ne .Params.nocomments true }}
                 <div class="post-comments">
                     {{ template "_internal/disqus.html" . }}
