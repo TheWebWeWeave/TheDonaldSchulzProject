@@ -11,7 +11,7 @@ categories = [
 menu = "main"
 image = "/images/HotJava.png"
 nocomments = false
-signUp = true
+soundCloudId = "hot-java-1"
 +++
 
 This music was performed for the first time at my Mom and Dad's 25th Wedding Anniversary.  Several years later I rearranged the music and recording this in a 24 track studio in Edmonton, Alberta with some friends and some additional professional musicians.  This became a very limited release and one of the last things that I pressed into a vinyl record.  The music centers around a good cup of coffee. One of the signs that indicated to us as kids that company was coming was sound of the very loud percolator that would be whooshing away making that hot cup of java.
@@ -20,8 +20,8 @@ My parents loved to entertain guests, especially my Dad and that always included
 
 Recently I got the original 24 tracks converted to digital stems and rebuilt the music with a lot of new cuts of instruments and included a few of the original tracks to make this new recording.  Giving it a more up to date sound but the feel is pretty much the same.  This music pairs very nicely with a good old cup of coffee.
 
-For your convenience I have a Presave link that you can use to add it to your library for Spotify and Apple Music.  If you prefer to download a copy of **Hot Java** I have a link down below that will take you to my **BandCamp** account.  Thanks for being a fan.  If you haven't already make sure you signup for my Newsletter so you will always know about new music and other news that I want to share.
+For your convenience I have a smart link that you can use to go directly to Spotify and iTunes.  If you prefer to download a copy of **Hot Java** Click on the shopping cart button found in the embedded player just below.  This will take you to my **BandCamp** account where you can download and purchase Hot Java.  Thanks for being a fan.  If you haven't already make sure you signup for my Newsletter so you will always know about new music and other news that I want to share.
 
-[PreSave Link](https://gate.fm/HuGNfTr)
+[Smart Link](https://gate.fm/HuGNfTr)
 
-[To Purchase Hot Java, this link takes you to my BandCamp account](https://thedonaldschulzproject.bandcamp.com)
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fthunderfoot-430950952&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
