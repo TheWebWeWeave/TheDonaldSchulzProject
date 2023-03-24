@@ -12,6 +12,7 @@ menu = "main"
 image = "/images/HotJava.png"
 nocomments = false
 soundCloudId = "hot-java-1"
+spotifyId = "0PeoJT1dRsbhHOO7yH2g2u"
 +++
 
 This music was performed for the first time at my Mom and Dad's 25th Wedding Anniversary.  Several years later I rearranged the music and recording this in a 24 track studio in Edmonton, Alberta with some friends and some additional professional musicians.  This became a very limited release and one of the last things that I pressed into a vinyl record.  The music centers around a good cup of coffee. One of the signs that indicated to us as kids that company was coming was sound of the very loud percolator that would be whooshing away making that hot cup of java.
@@ -22,6 +23,3 @@ Recently I got the original 24 tracks converted to digital stems and rebuilt the
 
 For your convenience I have a smart link that you can use to go directly to Spotify and iTunes.  If you prefer to download a copy of **Hot Java** Click on the shopping cart button found in the embedded player just below.  This will take you to my **BandCamp** account where you can download and purchase Hot Java.  Thanks for being a fan.  If you haven't already make sure you signup for my Newsletter so you will always know about new music and other news that I want to share.
 
-[Smart Link](https://gate.fm/HuGNfTr)
-
-<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fthunderfoot-430950952&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
