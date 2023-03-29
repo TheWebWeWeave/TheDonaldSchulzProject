@@ -17,6 +17,10 @@ disqusShortname = "thedonaldschulzproject"
     name = "songs"
     weight = 2
     url = "songs"
+  [[menu.header]]
+    name = "playlists"
+    weight = 0
+    url = "playlists"
 
 [params]
   GithubID = ""

@@ -12,7 +12,9 @@
         <div class="flex-wrapper">
             <div class="container wrapper">
                 <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                {{ if .Date }}
                 <span class="post-date">{{ .Date.Format "2006-01-02 " }}</span>
+                {{ end }}
                 <div class="post-content">
                     {{ if .Params.Image }}
                     <img src="{{ .Params.Image }}" width="200" style="float: left; border:0 margin: 15px 15px 15px 15px; padding-right: 10px;" />
