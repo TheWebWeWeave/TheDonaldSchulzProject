@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="col-md-6">
+        {{ if .IsNamedParams }}
+        <iframe src="https://open.spotify.com/embed/{{ .Get "type" }}/{{ .Get "id" }}"
+            width="{{ default "100%" (.Get "width") }}"
+            height="{{ default "380" (.Get "height") }}"
+            frameborder="0"
+            allowtransparency="true"
+            allow="encrypted-media"></iframe>
+        {{ else }}
+        <iframe src="https://open.spotify.com/embed/{{ .Get 0 }}/{{ .Get 1 }}"
+            width="{{ default "100%" (.Get 2) }}"
+            height="{{ default "380" (.Get 3) }}"
+            frameborder="0"
+            allowtransparency="true"
+            allow="encrypted-media"></iframe>
+        {{ end }}
+    </div>
+    <div class="col-md-6">
+        <div class="col-md-12">
+            <script async src="https://eocampaign1.com/form/e988abfc-a8a2-11ed-88e9-0d231eaceef0.js" data-form="e988abfc-a8a2-11ed-88e9-0d231eaceef0"></script>
+        </div>
+    </div>
+</div>
