@@ -9,7 +9,7 @@ categories = [
     "Songs"
 ]
 menu = "main"
-image = "/images/FindingMyVoice-v2.png"
+image = "/images/AlwaysOnMyMind.png"
 nocomments = false
 
 +++
@@ -17,4 +17,8 @@ This is a sad song and yes it really happened to me.  I think this was probably 
 
 I ended up moving away and going back into the family business.  I still did dabble around with my music projects on the weekends and any free time that I had but everything felt different and I did not have the drive that I once had.  In the past I had a number of failed projects but I would be up the next day with a new one to try.  This time I was much more suspicious of everything and everyone around me.
 
-I think that this dark cloud followed me around right up until the time I met my wife Mary.  Mary changed everything.  The world that I knew up to this point was going to change once more but this time for the better and the sheer joy of being together.  We have been married for over 20 years now almost as long as I have been in California.  She is my California girl.
+I think that this dark cloud followed me around right up until the time I met my wife Mary.  **Mary changed everything.**  The world that I knew up to this point was going to change once more, but this time for the better and the sheer joy of being together.  We have been married for over 20 years now almost as long as I have been in California.  **She is my California girl.**
+
+This song is going to be released on all streaming platforms on **April 14, 2023**  Instead of having to remember this date you can use the link below.  It is a smart link which will allow you to add this new song to your playlist on the date of the release for both Spotify and Apple Music.  Thanks for your support and reading about my creative efforts.
+
+[Smart Link](https://gate.fm/lAYEH4nYG)
