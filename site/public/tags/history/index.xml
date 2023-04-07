@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>history on The Donald Schulz Project</title>
+    <link>/tags/history/</link>
+    <description>Recent content in history on The Donald Schulz Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Always On My Mind</title>
+      <link>/songs/always-on-my-mind/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/songs/always-on-my-mind/</guid>
+      <description>This is a sad song and yes it really happened to me. I think this was probably the first time that I really fell in love and one of those situations where I new there was an expiry date and yet the heart wants what the heart wants. This break up really did a number on me as I lost my confidence and became very cold and almost distant to other relationships that I had after this.</description>
+    </item>
+    
+    <item>
+      <title>Hot Java</title>
+      <link>/songs/hot-java/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/songs/hot-java/</guid>
+      <description>This music was performed for the first time at my Mom and Dad&amp;rsquo;s 25th Wedding Anniversary. Several years later I rearranged the music and recording this in a 24 track studio in Edmonton, Alberta with some friends and some additional professional musicians. This became a very limited release and one of the last things that I pressed into a vinyl record. The music centers around a good cup of coffee. One of the signs that indicated to us as kids that company was coming was sound of the very loud percolator that would be whooshing away making that hot cup of java.</description>
+    </item>
+    
+  </channel>
+</rss>
