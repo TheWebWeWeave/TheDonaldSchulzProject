@@ -19,6 +19,6 @@ I ended up moving away and going back into the family business.  I still did dab
 
 I think that this dark cloud followed me around right up until the time I met my wife Mary.  **Mary changed everything.**  The world that I knew up to this point was going to change once more, but this time for the better and the sheer joy of being together.  We have been married for over 20 years now almost as long as I have been in California.  **She is my California girl.**
 
-This song is going to be released on all streaming platforms on **April 14, 2023**  Instead of having to remember this date you can use the link below.  It is a smart link which will allow you to add this new song to your playlist on the date of the release for both Spotify and Apple Music.  Thanks for your support and reading about my creative efforts.
+This song is now released on all streaming platforms.  You can stream it directly from this page by clicking on the play button below.  This is from Spotify.  While you are on Spotify you can follow me and always be notified as soon as any of my new songs become available on this platform.  Sign up for the newletter to get early access before they get released. Thanks again for being a fan, your are **awesome**
 
-[Smart Link](https://gate.fm/lAYEH4nYG)
+{{< spotify-mail-list type="track" id="6JQz8naX7yuqkWA3KrWHwV" width="570" height="380" >}}
