@@ -16,6 +16,6 @@ This is the first song that I ever wrote about my wife, Mary.  We like playing g
 
 The song itself has a very playful feel to it. Parts of it feel kind of beachy like in the Caribbean.  For about 4 years in a row before the Pandemic we would spend about a week out in those beaches as we went on an annual Vegan Cruise.
 
-I had a lot of fun writing and recording this song.  It is just a nice feel good song and hope you enjoy this song as much as I did in creating it.  Clicking on the link below will allow you to add the song to your Spotify or Apple Music Libraries.  Thanks again for listening.
+I had a lot of fun writing and recording this song.  It is just a nice feel good song and hope you enjoy this song as much as I did in creating it.  Clicking on the link below will allow you to add the song to your Spotify or Apple Music Libraries. The song is schedule to be released on **April 28, 2023**.  Thanks again for listening.
 
 [Smart Link](https://gate.fm/WRmR8Zel)
