@@ -18,4 +18,8 @@ The song itself has a very playful feel to it. Parts of it feel kind of beachy l
 
 I had a lot of fun writing and recording this song.  It is just a nice feel good song and hope you enjoy this song as much as I did in creating it.  Play the game is now streaming from all the streaming platforms.  I have a spotify embedded player for your convenience.  Thanks again for listening and being a fan.
 
+**2023-05-13 Update:** I just received a very nice review from Radio Airplay that I just had to share with you all.  It also serves as a place where I can find it myself.
+
+![Review](/images/PlayTheGameReview.png)
+
 {{< spotify-mail-list type="track" id="0omRBBbUvmGos0b51XpRVc" width="570" height="380" >}}
