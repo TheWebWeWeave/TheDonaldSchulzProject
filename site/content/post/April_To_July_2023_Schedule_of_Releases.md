@@ -14,8 +14,18 @@ Don't forget to signup for my newsletter where you can get early access to the s
 | 04/14/2023 | Always on my Mind |
 | 04/28/2023 | Play the Game |
 | 05/12/2023 | Change the World |
-| 05/26/2023 | Party in the Street |
-| 06/09/2023 | Beach Talk |
-| 06/23/2023 | I'm here to Stay |
-| 07/07/2023 | Penny for your Thoughts |
-| 07/21/2023 | Need to Feel |
+
+---
+**June 21, 2023 Update**
+
+Well May 26th came and went and there was no release as we had scheduled.  I found that Party in the Street was just not ready for release.  There are some rough edges that still need to be ironed out.  I was also finding that releasing every two weeks is fine when we had tracks closer to their finished stages.  I have revamped the schedule and as we start to release songs again we will try to do this every three weeks to see if that will work better for us.  Thanks for hanging in there and here is the revised schedule.
+
+To really give Party in the Street the proper amount of time to come together we have moved it to the bottom of the list.  It is a song with a great story and really does need this extra time to get it right.
+
+| Date | Title |
+| --- | ---|
+| 07/07/2023 | Beach Talk |
+| 07/28/2023 | I'm here to Stay |
+| 08/18/2023 | Penny for your Thoughts |
+| 09/09/2023 | Need to Feel |
+| 09/29/2023 | Party in the Street |
