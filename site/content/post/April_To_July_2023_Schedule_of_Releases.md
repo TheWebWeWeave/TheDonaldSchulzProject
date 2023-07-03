@@ -22,10 +22,15 @@ Well May 26th came and went and there was no release as we had scheduled.  I fou
 
 To really give Party in the Street the proper amount of time to come together we have moved it to the bottom of the list.  It is a song with a great story and really does need this extra time to get it right.
 
+---
+**July 3, 2023 Update**
+
+This is almost getting embarrassing the first rescheduled date for Beach Talk was supposed to be 4 days from today and that is not going to happen.  However, I do have some good news in that I actually have a track of this song completed and it will be coming out in around 3 weeks from today.  This should give me the time I need to get the rest of this collection done and on time and not cheap out on the quality.  Here is the new schedule.
+
 | Date | Title |
 | --- | ---|
-| 07/07/2023 | Beach Talk |
-| 07/28/2023 | I'm here to Stay |
-| 08/18/2023 | Penny for your Thoughts |
-| 09/09/2023 | Need to Feel |
-| 09/29/2023 | Party in the Street |
+| 07/25/2023 | Beach Talk |
+| 08/15/2023 | I'm here to Stay |
+| 09/05/2023 | Penny for your Thoughts |
+| 09/26/2023 | Need to Feel |
+| 10/17/2023 | Party in the Street |
