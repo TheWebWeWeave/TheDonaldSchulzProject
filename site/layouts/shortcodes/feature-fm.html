@@ -1,0 +1,18 @@
+<!--
+Parameters:    
+    id - (Required) The id portion of the feature.fm widget
+    width - (Optional) width
+    height - (Optional) height
+-->
+
+{{ if .IsNamedParams }}
+<iframe width="{{ default "300" ( .Get "width" )}}" 
+    height="{{ default "250" ( .Get "height" )}}" 
+    src="https://ffm.to/{{ .Get "id" }}/widget?width={{ .Get "width" }}&height={{ .Get "height" }}&note=">
+</iframe>
+{{ else }}
+<iframe width="300" 
+    height="250" 
+    src="https://ffm.to/0aqdmb7.OWE/widget?width=300&height=250&note=">
+</iframe>
+{{ end }}
