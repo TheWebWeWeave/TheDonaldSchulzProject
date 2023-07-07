@@ -26,6 +26,6 @@ This song is now released on all streaming platforms.  You can stream it directl
 ![Review](/images/Review_AlwaysOnMyMind.png)
 
 **2023-07-05 Update:** Because not everyone might be on Spotify, I have a new launcher that pops up to launch the song on several of the most popular platforms out there.  This includes Spotify, Apple Music, iTunes, Amazon Music, YouTube, Tidal, and Deezer.  Let me know in the comments if there are other streaming platforms that you would like to see included here.  Just click on the Stream Now button to reveal the launcher.
-
 {{< feature-fm  id="0aqdmb7" width="900" height="500" >}}
+
 
