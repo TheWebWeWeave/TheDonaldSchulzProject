@@ -19,4 +19,6 @@ My wife and I have had some of the most awe inspiring talks while at the beach. 
 
 But our happiest time was getting married on the beach in Malibu, California.  It was so fun to share with our friends and family the peace and inspirational energy that we feel from this place.  The beach will always be an important element in our lives and even though we may get busy with life we try to make sure that we take some time to ourselves (and our two adorable dogs) and go to the beach.
 
-I hope this song leaves you with a bit of that inspiration and hope that it always gives to us.  Did someone say road trip?
+I hope this song leaves you with a bit of that inspiration and hope that it always gives to us.  Did someone say road trip?  The song is scheduled for release on July 25, 2023.  Take advantage of the **Pre-Save Now** button in the widget below.  You have a choice for several of the streaming platforms that you might be one.  Choose your favorite and it will be delivered to you on release day.
+
+{{< feature-fm  id="x8dko3a.OWE" width="750" height="500" >}}

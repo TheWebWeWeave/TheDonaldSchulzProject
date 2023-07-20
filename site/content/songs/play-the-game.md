@@ -22,4 +22,6 @@ I had a lot of fun writing and recording this song.  It is just a nice feel good
 
 ![Review](/images/PlayTheGameReview.png)
 
-{{< spotify-mail-list type="track" id="0omRBBbUvmGos0b51XpRVc" width="570" height="380" >}}
+**2023-07-19 Update:** Because not everyone might be on Spotify, I have a new launcher that pops up to launch the song on several of the most popular platforms out there.  This includes Spotify, Apple Music, iTunes, Amazon Music, YouTube, Tidal, and Deezer.  Let me know in the comments if there are other streaming platforms that you would like to see included here.  Just click on the Stream Now button to reveal the launcher.
+
+{{< feature-fm  id="nrb1l7q.OWE" width="900" height="600" >}}
