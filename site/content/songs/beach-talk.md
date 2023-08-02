@@ -23,4 +23,4 @@ I hope this song leaves you with a bit of that inspiration and hope that it alwa
 
 **July 26, 2023 Update:** The song has been released on all streaming platforms.  The button below has a number of the different streaming platforms wired up so you can listen to the song from your favorite streaming platform right from this widget.  These include Spotify, Apple Music, Amazon Music, YouTube and few others.  Check it out and enjoy a day at the beach curtesy of **The Donald Schulz Project**. 
 
-{{< feature-fm  id="x8dko3a.OWE" width="750" height="500" >}}
+{{< feature-fm  id="x8dko3a.OWE" width="500" height="500" >}}

@@ -21,4 +21,4 @@ My reasons for recording this and including it into my catalog of songs was the 
 
 **Change the World** is now available on all the streaming platforms. Below is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy.
 
-{{< feature-fm  id="336kza.OWE" width="900" height="690" >}}
+{{< feature-fm  id="336kza.OWE" width="500" height="690" >}}
