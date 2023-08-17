@@ -1,8 +1,8 @@
 mode: Mainline
-next-version: "1.6.1"
+next-version: "1.6.2"
 branches:
   breaking:
-    regex: ^breaking?[/-]
+    regex: ^breaking?[/-]clear
     tag: "preview"
     source-branches:
     - develop

@@ -26,6 +26,11 @@
                     {{ if .Params.Image }}
                     <img src="{{ .Params.Image }}" width="200" style="float: left; border:0 margin: 15px 15px 15px 15px; padding-right: 10px;" />
                     {{ end }}
+                    {{ if .Params.FeatureId }}
+                    <iframe width="500" height="500" style="float: left; border:0 margin:15px 15px 15px 15px; padding-right:10px;" 
+                        src="https://ffm.to/{{ .Params.FeatureId }}/widget?width='500'&height='500'&note=">
+                    </iframe>
+                    {{ end }}
                     {{ .Content }}
                 </div>
                 {{ if .Params.soundCloudId }}
