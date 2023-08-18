@@ -9,8 +9,8 @@ categories = [
     "Songs"
 ]
 menu = "main"
-image = "/images/PennyForYourThoughts.png"
-featureId = ""
+image = ""
+featureId = "p5521rx.OWE"
 nocomments = false
 +++
 Over 7 years ago we rescued a Carin Terrier dog and named her Penny.  We have never had a Carin Terrier before and were just in awe about her personality and just who she is.  We learned later from other parents of Carin Terrier's that these are very common traits with this breed.
