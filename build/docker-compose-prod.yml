@@ -6,26 +6,14 @@ networks:
             name: nat
          
 services:
-    donaldonsoftware:
+    donaldschulz:
         image: schulzdl/donaldschulz:v${semver}
         container_name: donaldschulz
         restart: always
         expose:
             - 80
         environment: 
-            - "VIRTUAL_HOST=donaldschulz.com"
-            - "LETSENCRYPT_HOST=donaldschulz.com"                      
+            - "VIRTUAL_HOST=www.donaldschulz.com"
+            - "LETSENCRYPT_HOST=www.donaldschulz.com"                      
         networks: 
             - app-net
-
-    www-donaldschulz:
-        image: schulzdl/donaldschulz:v${semver}
-        container_name: www-donaldschulz
-        restart: always
-        expose:
-            - 80
-        environment: 
-            - "VIRTUAL_HOST=www.donaldschulz.com"
-            - "LETSENCRYPT_HOST=www.donaldschulz.com"                   
-        networks: 
-            - app-net  
