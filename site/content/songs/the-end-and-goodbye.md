@@ -10,7 +10,7 @@ categories = [
 ]
 menu = "main"
 image = ""
-featureId = "zqknqm7.OWE"
+featureId = "jajoypa.OWE"
 nocomments = false
 +++
 I have had this song idea in my head for a long, long time and always felt that it was the finishing piece to a song or an album.  This song is being released a little different than the way I have released songs in the past.  There is an album coming that will hold most of the songs that I have released over the past year with some alterations to them and remixed and mastered.  However, the arrangements will be about the same.  For **The End and Goodbye** I am initially releasing what I call a shorter version of the song which is around 2:44 that is also termed as the Radio Version.  The one that will go onto the album will be the full version of the song and it run somewhere in the 6 minute range.
