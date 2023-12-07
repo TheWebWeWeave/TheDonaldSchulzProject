@@ -356,7 +356,9 @@ MigrationBackup/
 
 ### Hugo ###
 # Generated files by hugo
+
 site/public/*
+*/public/*
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
