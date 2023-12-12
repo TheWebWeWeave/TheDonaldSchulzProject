@@ -17,6 +17,9 @@
 						<a class="nav-link" href='{{ "/" | absLangURL }}'>
 							home{{ .Site.Params.HeaderUsername }}</a>
 					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="https://store.donaldschulz.com">store</a>
+					</li>
 					{{ if .IsTranslated }}
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" 
@@ -41,16 +44,16 @@
 						{{ if .HasChildren }}
 						<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" 
 								aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
-						<ul class="dropdown-menu">
+						<ul class="dropdown-menu">							
 							{{ range .Children }}
 							<li>
 								<a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ lower .Name }}</a>
 							</li>
-							{{ end }}
+							{{ end }}							
 						</ul>
-						{{ else }}
-						<a class="nav-link" href="{{ .URL | absLangURL }}">{{ lower .Name }}</a>
-						{{ end  }}
+						{{ else }}						
+						<a class="nav-link" href="{{ .URL | absLangURL }}">{{ lower .Name }}</a>						
+						{{ end  }}						
 					</li>
 					{{ end }}
 				</ul>
