@@ -16,4 +16,4 @@ From the family business to a couple of years of doing some interesting promotio
 Being married and with some help of some therapy I had to learn how to express into words what I was feeling.  I could no long bottle up these emotions and process them through playing.  My wife wants to know what is going on with me.
 
 ## Finding my Voice
-This collection of songs is really about that journey.  These songs are about me and the songs written by me are things that I am very personal to me.
+This collection of songs is really about that journey.  These songs are about me and the songs written by me are things that are very personal to me.
