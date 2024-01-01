@@ -10,7 +10,7 @@ categories = [
 ]
 menu = "main"
 image = ""
-featureId = "eppnkdk.OWE"
+featureId = "bwgavqj.OWE"
 nocomments = false
 +++
 In 1984, the Edmonton Oilers won the Stanley Cup for the first time after just being in the National Hockey League (NHL) for only five years.  There are somethings to understand about Edmonton, Alberta, Canada.  This is a hockey town like no other, they truly love and support their Oilers.  There was a period in Oilers history where the original owner was trying to sell the team to Huston, Texas and the city came together to purchase the team from the owner.
