@@ -24,7 +24,11 @@
                 </svg></a></div>
                 <div class="post-content">
                     {{ if .Params.Image }}
-                    <img src="{{ .Params.Image }}" width="200" style="float: left; border:0 margin: 15px 15px 15px 15px; padding-right: 10px;" />
+                        {{ if .Params.Size }}
+                        <img src="{{ .Params.Image }}" width="{{ .Params.Size }}" style="float: left; border:0 margin: 15px 15px 15px 15px; padding-right: 10px;" />
+                        {{ else }}
+                        <img src="{{ .Params.Image }}" width="200" style="float: left; border:0 margin: 15px 15px 15px 15px; padding-right: 10px;" />
+                        {{ end }}
                     {{ end }}
                     {{ if .Params.FeatureId }}
                     <iframe width="500" height="500" style="float: left; border:0 margin:15px 15px 15px 15px; padding-right:10px;" 
