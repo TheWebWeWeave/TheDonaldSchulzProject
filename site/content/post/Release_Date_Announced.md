@@ -1,6 +1,6 @@
 ---
 title: "Release Date Announced"
-date: 2023-02-09T16:19:42-08:00
+date: 2023-02-09
 draft: false
 nocomments: true
 ---
