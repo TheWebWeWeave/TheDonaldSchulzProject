@@ -1,6 +1,6 @@
 ---
 title: "My Album Is Coming"
-date: 2025-06-05:13:09:00-00
+date: 2025-06-05T13:09:00-00
 draft: false
 nocomments: false
 ---
