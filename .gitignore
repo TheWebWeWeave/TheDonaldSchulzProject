@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+site/public/*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -372,4 +373,5 @@ hugo.linux
 /.hugo_build.lock
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
+site/public/404.html
 site/public/404.html
