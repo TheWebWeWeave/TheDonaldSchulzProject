@@ -18,6 +18,10 @@ disqusShortname = "thedonaldschulzproject"
     weight = 2
     url = "songs"
   [[menu.header]]
+    name = "albums"
+    weight = 3
+    url = "albums"  
+  [[menu.header]]
     name = "playlists"
     weight = 0
     url = "playlists"
