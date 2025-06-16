@@ -23,3 +23,14 @@ Penny used to bark at all the strangers that we saw on our walk.  She is very pr
 
 **09/06/2023 - Update:**
 Penny for your thoughts is now available on all streaming platforms.  Just click on the Stream Now button at the bottom right hand corner of the Album Art to launch the song using your favorite provider.  We have launchers for all the major ones.  If there is one that you like that is not listed leave a comment in the Comments section below and I'll see what I can do to get that added for you.
+
+**Lyrics**
+I'm Carin Terrin up the Stereo
+Throw me a bone
+You'd be hot too if you wore a fun coat in July
+I see coyotes hiding in the dark
+Throw me a bone
+My nose is on fire
+You don't know what I'm thinking
+Throw me a bone
+I'm Carin Terrin up the Stereo

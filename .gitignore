@@ -375,3 +375,4 @@ hugo.linux
 # End of https://www.toptal.com/developers/gitignore/api/hugo
 site/public/404.html
 site/public/404.html
+site/.hugo_build.lock

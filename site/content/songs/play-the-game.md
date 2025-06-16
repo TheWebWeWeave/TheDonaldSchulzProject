@@ -24,3 +24,46 @@ I had a lot of fun writing and recording this song.  It is just a nice feel good
 ![Review](/images/PlayTheGameReview.png)
 
 **2023-07-19 Update:** Because not everyone might be on Spotify, I have a new launcher that pops up to launch the song on several of the most popular platforms out there.  This includes Spotify, Apple Music, iTunes, Amazon Music, YouTube, Tidal, and Deezer.  Let me know in the comments if there are other streaming platforms that you would like to see included here.  Just click on the Stream Now button to reveal the launcher.
+
+**Lyrics**
+Chorus:
+Here's a game I know you'd like to play
+All I want is for you to stay.
+Here's a game about a happy life
+Ever since you became my wife.
+
+Verse 1:
+We can play house
+or we can just hang out
+We can play hand and foot
+or I can read to you from a book.
+
+Chorus:
+Here's a game I know you'd like to play
+All I want is for you to stay.
+Here's a game about a happy life
+Ever since you became my wife.
+
+Bridge:
+Let's gather 'round and pick a game,
+There's no need for them to be the same.
+Perhaps some cards or board will do,
+Or outside, we'll throw a ball or two.
+
+Chorus:
+Here's a game I know you'd like to play
+All I want is for you to stay.
+Here's a game about a happy life
+Ever since you became my wife.
+
+Verse 2:
+We can play cards
+or we can play lifeguards
+We could play a duet
+or we could play a game of croquette
+
+Chorus:
+Here's a game I know you'd like to play
+All I want is for you to stay.
+Here's a game about a happy life
+Ever since you became my wife.

@@ -28,4 +28,45 @@ This song is now released on all streaming platforms.  You can stream it directl
 
 **2023-07-05 Update:** Because not everyone might be on Spotify, I have a new launcher that pops up to launch the song on several of the most popular platforms out there.  This includes Spotify, Apple Music, iTunes, Amazon Music, YouTube, Tidal, and Deezer.  Let me know in the comments if there are other streaming platforms that you would like to see included here.  Just click on the Stream Now button to reveal the launcher.
 
+**Lyrics**
+Verse 1:
+It's another restless night, I feel like I've gone insane.
+Same thoughts, same pictures keep running through my brain.
+It's thoughts of you and me and the way you hold me tight
+I want to, I've got to, I need your love tonight.
+
+Verse 2:
+Pour a strong one as I try to get some sleep
+Scrolling through the words you sent I read them, and I weep
+No matter how I try, and I've tried with all of my might
+Nothing I do seems enough to make things right
+
+Chorus:
+You are always on my mind
+(always on my mind)
+You are always on my mind
+(always on my mind)
+
+Verse 3:
+I turn on the radio, they're playing songs for you
+Don't they know, don't they know what I'm going through
+I can't go on this way, my feelings run too deep
+So, I'll just think of you and cry myself to sleep
+
+Chorus:
+You are always on my mind
+(always on my mind)
+You are always on my mind
+(always on my mind)
+
+You are always on my mind
+(always on my mind)
+You are always on my mind
+(always on my mind)
+
+You are always on my mind
+(you are always on my mind)
+You are always on my mind
+(you are always on my mind)
+
 

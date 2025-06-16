@@ -24,3 +24,58 @@ Even my own path took me in directions that I had not anticipated.  I went back 
 I had gone back to the family business twice with a two year break in between. That's when I went back to the city and started a printing and promotion company.  The second time in the family business I got heavily involved in computers and built some of the software that we were using.  In the beginning, I was working really long days and most weekends just to keep up.  With the software that I modified, I picked up a bunch of cheap computers and linked them all up using Lantastic and got the entry of the data at the point of sale (POS).  Once I did that, I could get all my work done in a total of 10 days per month.  I would start working five days before the end of the month and be done five days after the month.  Then I would go on a three week vacation.  After three months, my father informed me that they did not need me anymore.  Which was fine by me because I was bored with the accounting side but really loved the programming side.
 
 I went back to McEwan University but this time for their Micro Computer program.  Three years after I graduated, I landed a job in California.  This always was a dream of mine; to live here but I always thought that the music would get me here.  But it was the technology.  Unfortunately, this cousin and I never spoke or connected with each other again.  There was no reason not to call and get together with him. It really hit me like a ton of bricks when my mother informed me that he had died.  No one knew that he had cancer, and he died in hospice.  There was no way to let him know how much I appreciated him.  I don't regret the road I took, but I miss him. I still love that style of music. I am sure you can hear that in many of my songs.
+
+**Lyrics**
+Verse 1:
+Thinking about my childhood days
+Had a cousin, was my best friend
+I would call these the Happy Days
+The end I could not comprehend
+ 
+Verse 2:
+I put together a rock 'n roll band
+He showed me how we could add some brass
+This sound has now became my brand
+This put us in a special class
+ 
+Chorus:
+Now I am just missing Harv
+He was the real Batman
+Fix the world that was our plan
+We'd always do it side by side
+ 
+Verse 3:
+He decided on a different plan
+I hoped this would not break us up
+It all ended before it began
+There was nothing more to discuss
+ 
+Verse 4:
+I could have called him up many times
+To reconnect I did intend 
+There'd come a time was on our minds
+So much time past, I lost my friend
+ 
+Chorus:
+Now I am just missing Harv
+He was the real Batman
+Fix the world that was our plan
+We'd always do it side by side
+ 
+Bridge:
+My friend past away not long ago
+I did not know what he was going through
+How much me meant to me  he did not know
+My chance to connect I really blew
+ 
+Chorus:
+Now I am just missing Harv
+He was the real Batman
+Fix the world that was our plan
+We'd always do it side by side
+ 
+Chorus 2:
+Now I am just missing Harv
+Now I am just missing Harv
+Now I am just missing Harv
+Now I am just missing Harv
