@@ -21,18 +21,23 @@ I had graduated from a two year Micro Systems Specialist Program at McEwan Unive
 
 From the time that I posted my resume for a job in Southern California to getting a response was about a week and three weeks later I was crossing the boarder heading for Santa Monica, California.  I really felt God's presence in my life during that whole situation.  Even the fact that I was turned down twice at the border because of the wording of my Acceptance Letter.  I could hear God say to me, "I will open doors for you my son, but I also expect you to do some of the work as well".  I realized that these border guards don't necessarily understand all the details of the agreement but work from a cue sheet of words to look for.  The law was written using old terminology where a programmer was an unskilled role that punched the punch cards that fed into the mainframe where the Computer Systems Analysis marked them.  My new boss and I got it figured out and like they say third time is the charm.
 
+---
+
 **Lyrics**
-Father I give my life
-Place it in your hands
-Father I give my life
+
+---
+
+Father I give my life\
+Place it in your hands\
+Father I give my life\
 Place it in your hands
 
-Father I give my life
-Place it in your hands
-Father I give my life
+Father I give my life\
+Place it in your hands\
+Father I give my life\
 Place it in your hands
 
-Father I give my life
-Place it in your hands
-Father I give my life
+Father I give my life\
+Place it in your hands\
+Father I give my life\
 Place it in your hands

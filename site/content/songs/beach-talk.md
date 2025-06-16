@@ -24,37 +24,42 @@ I hope this song leaves you with a bit of that inspiration and hope that it alwa
 
 **July 26, 2023 Update:** The song has been released on all streaming platforms.  The button below has a number of the different streaming platforms wired up so you can listen to the song from your favorite streaming platform right from this widget.  These include Spotify, Apple Music, Amazon Music, YouTube and few others.  Check it out and enjoy a day at the beach curtesy of **The Donald Schulz Project**. 
 
+---
+
 **Lyrics**
-Verse 1
-It's a hot and sunny day
-Let's go out on the freeway
-We will pack a picnic lunch
+
+---
+
+**Verse 1**\
+It's a hot and sunny day\
+Let's go out on the freeway\
+We will pack a picnic lunch\
 So that we have things to munch
 
-We go driving for a while
-And we get this great big smile
-We are heading for the beach
+We go driving for a while\
+And we get this great big smile\
+We are heading for the beach\
 Good fun is within our reach.
 
-Chorus
-Walking on the beach, we have the best beach talk.
-The waves would crash around us and we'd take stock
-Talk about the things that we have done and seen
+**Chorus**\
+Walking on the beach, we have the best beach talk.\
+The waves would crash around us and we'd take stock\
+Talk about the things that we have done and seen\
 And wonder about the things that might have been.
 
-Verse 2
-Beach is waiting there for me
-Pack our picnic lunch with glee
-Sand, the waves, and the Sun
+**Verse 2**\
+Beach is waiting there for me\
+Pack our picnic lunch with glee\
+Sand, the waves, and the Sun\
 There is always so much fun.
 
-I can build a castle tall
-I can swim and splash and crawl
-I can see the seagulls fly
-I just smile,  breathe, and sigh
+I can build a castle tall\
+I can swim and splash and crawl\
+I can see the seagulls fly\
+I just smile,  breathe, and sigh\
 
-Chorus
-Walking on the beach, we have the best beach talk.
-The waves would crash around us and we'd take stock
-Talk about the things that we have done and seen
+**Chorus**\
+Walking on the beach, we have the best beach talk.\
+The waves would crash around us and we'd take stock\
+Talk about the things that we have done and seen\
 And wonder about the things that might have been.

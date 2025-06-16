@@ -22,33 +22,37 @@ My reasons for recording this and including it into my catalog of songs was the 
 
 **Change the World** is now available on all the streaming platforms. Below is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy.
 
+---
+
 **Lyrics**
-If I can reach the stars
-Pull one down for you
-Shine it on my heart
+
+---
+If I can reach the stars\
+Pull one down for you\
+Shine it on my heart\
 So you could see the truth
 
-That this love I have inside
-Is everything it seems
-But for now I find
+That this love I have inside\
+Is everything it seems\
+But for now I find\
 t's only in my dreams
 
-And I can change the world
-I will be the sunlight in your universe
-You would think my love was really something good
+And I can change the world\
+I will be the sunlight in your universe\
+You would think my love was really something good\
 Baby, if I could change the world
 
-If I could be king
-Even for a day
-I'd take you as my queen
-I'd have it no other way
+If I could be king\
+Even for a day\
+I'd take you as my queen\
+I'd have it no other way\
 
-And our love would rule
-In this kingdom we have made
-'Til then I'd be a fool
+And our love would rule\
+In this kingdom we have made\
+'Til then I'd be a fool\
 Wishing for the day
 
-And I can change the world
-I would be the sunlight in your universe
-You would think my love was really something good
+And I can change the world\
+I would be the sunlight in your universe\
+You would think my love was really something good\
 Baby, if I could change the world

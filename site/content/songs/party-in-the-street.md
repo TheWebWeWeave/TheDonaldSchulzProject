@@ -19,43 +19,48 @@ Now, back to 1984, we were all expecting a win as each year since being part of 
 
 I was there in the middle of all this and it really made an impression on me.  I was very proud and loved this city and this team.  The melody and the words for the chorus came to me almost right away and I have been carrying this around with the intention to finish this song but life kept getting in the way.  When I made this decision over a year ago to get back to writing and releasing music, this was one of the many ideas that I had floating around to complete this song. 
 
+---
+
 **Lyrics**
-Chorus
-We're goanna hang out on Jasper Avenue
-We're goanna party until the day is new
-We're goanna hang out on Jasper Avenue
+
+---
+
+**Chorus**\
+We're goanna hang out on Jasper Avenue\
+We're goanna party until the day is new\
+We're goanna hang out on Jasper Avenue\
 We're goanna party until the day is new
 
-Verse 1:
-They've been waiting for this moment
-Since the day they first played
-They've been working hard and dreaming big
+**Verse 1:**\
+They've been waiting for this moment\
+Since the day they first played\
+They've been working hard and dreaming big\
 And now they've made their way
 
-To the final stage of glory
-Where they faced their toughest foes
-But they have the skill and spirit
+To the final stage of glory\
+Where they faced their toughest foes\
+But they have the skill and spirit\
 To make history and win the final cup
 
-Chorus
-We're goanna hang out on Jasper Avenue
-We're goanna party until the day is new
-We're goanna hang out on Jasper Avenue
+**Chorus**\
+We're goanna hang out on Jasper Avenue\
+We're goanna party until the day is new\
+We're goanna hang out on Jasper Avenue\
 We're goanna party until the day is new
 
-Verse 2:
-They've been supported by their fans
-Who always cheered them on
-They've been inspired by their legends
+**Verse 2:**\
+They've been supported by their fans\
+Who always cheered them on\
+They've been inspired by their legends\
 Who showed them how it's done
 
-They've been united by their passion
-Four games to one was the final score.
-We couldn't stay in our seats
+They've been united by their passion\
+Four games to one was the final score.\
+We couldn't stay in our seats\
 So we took the party to the streets.
 
-Chorus
-We're goanna hang out on Jasper Avenue
-We're goanna party until the day is new
-We're goanna hang out on Jasper Avenue
+**Chorus**\
+We're goanna hang out on Jasper Avenue\
+We're goanna party until the day is new\
+We're goanna hang out on Jasper Avenue\
 We're goanna party until the day is new
