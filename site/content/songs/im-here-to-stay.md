@@ -20,3 +20,43 @@ Mary and I got married on a sandy beach in Malibu California with most of my imm
 You can't blame me I have always been attracted to the big City life and even though I live in a smaller City about 40 miles North West of Los Angeles we can enjoy all the luxuries that come from living so close to L.A. & Hollywood.  We go to outdoor Concerts in the Summer at the Hollywood Bowl and Greek Theater.  There are concerts happening all the time with mega stars that would never tour my old neck of the woods.  You can also catch some of the real stars of the recording industry, the studio musicians that never tour but they might do a night or two at a local nearby club.
 
 This song will take you on a journey of the things that I am leaving behind.  Canada is a beautiful place but it has many hardships as well that you cannot ignore.  The chorus centers around the declaration that I am here in my new home with no intention what so ever of moving back to Canada.  I do miss my siblings, nephews, niece, cousins, and of course my mom.  I don't get to visit as often as I like but this is where I am going to stay.
+
+---
+
+**Lyrics**
+
+---
+
+**Verse 1**\
+Forty below can make your skin crack up\
+You've got your summers that never catch up\
+Some winters are short but mostly their long\
+Sometimes the summer is just a weekend long.
+
+Natural beauty but it comes with a price\
+You have to make friends with the snow and Ice.\
+You need some studded tires or get some chains\
+Stay behind a snowplow and don't change lanes
+
+**Chorus**\
+People been asking when I'm going back\
+They were there when they saw me pack\
+They might hope and they may pray\
+I will tell you straight, I'm here to stay
+
+**Verse 2**\
+I am a man that needs a lot more sun\
+Tried out my new found home as a dry run.\
+Big City calling me, while a young man.\
+Always wanted to be there but needed a plan
+
+I'll take the chance to live a different life\
+Found a girl and she became my wife\
+Had our wedding on a California beach\
+Now all my dreams are all within reach
+
+**Chorus**\
+People been asking when I'm going back\
+They were there when they saw me pack\
+They might hope and they may pray\
+I will tell you straight, I'm here to stay
