@@ -35,7 +35,7 @@ The right to access one’s own personal information
 The right to equal service and price, even for consumers who exercise their privacy rights
 Any Customer wishing to exercise a right to access personal information held by The Donald Schulz Project must submit a verifiable consumer request to The Donald Schulz Project by either:
 
-Emailing The Donald Schulz Project at thedonaldschulzproject@gmail.com
+Emailing The Donald Schulz Project at [thedonaldschulzproject@gmail.com](mailto:thedonaldschulzproject@gmail.com)
 Calling The Donald Schulz Project at 805-864-1963
 Please note that only an individual who is a resident of California (or the legal guardian of such individual in the case of a minor child) may make a request under the CCPA.
 
@@ -43,7 +43,7 @@ Please note that only an individual who is a resident of California (or the lega
 The Donald Schulz Project reserves the right to change this Privacy Statement. We will provide notification of the material changes to this Privacy Statement through our Sites at least 30 days prior to the change taking effect.
 
 ## 6. Contact Information
-To exercise your rights regarding Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please contact us at thedonaldschulzproject@gmail.com
+To exercise your rights regarding Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please contact us at [thedonaldschulzproject@gmail.com](mailto:thedonaldschulzproject@gmail.com)
 
 ## 7. Financial Information
 We do not store any credit card or banking information on this site. We use Stripe as our financial provider and they are a world class, highly secure and trusted financial partner. They will provide you with the option to store your credit card information for future purchases or not to store your credit information at all.
