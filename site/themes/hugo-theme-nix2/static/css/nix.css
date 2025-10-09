@@ -2,6 +2,14 @@
 	margin: 0;
 }
 
+@font-face {
+  font-family: "Helnore"; /* A name for your font */
+  src: url("/fonts/Helnore-Regular.otf") format("opentype"); /* Path relative to the static folder */       
+  font-weight: normal; /* Or bold, etc. */
+  font-style: normal; /* Or italic, etc. */
+  font-display: swap; /* Recommended for performance */
+}
+
 html {
 	height: 100%;
 }
@@ -9,7 +17,7 @@ html {
 body {
 	background-color: #fdfdfd;
 	height: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Helnore', sans-serif;
 }
 
 img {
@@ -33,7 +41,7 @@ img {
 }
 
 .font-paragraph {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Helnore', sans-serif;
 }
 
 nav {
@@ -50,9 +58,14 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Concert One', cursive;
 }
 
+p {
+	font-family: 'Helnore', sans-serif;
+	font-size: 1.25em;
+}
+
 #user-name {
 	font-size: 5em;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 .user-description {
