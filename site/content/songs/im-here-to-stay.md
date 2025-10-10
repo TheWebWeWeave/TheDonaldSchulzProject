@@ -21,6 +21,8 @@ You can't blame me I have always been attracted to the big City life and even th
 
 This song will take you on a journey of the things that I am leaving behind.  Canada is a beautiful place but it has many hardships as well that you cannot ignore.  The chorus centers around the declaration that I am here in my new home with no intention what so ever of moving back to Canada.  I do miss my siblings, nephews, niece, cousins, and of course my mom.  I don't get to visit as often as I like but this is where I am going to stay.
 
+**I'm Here to Stay** is now available on all the streaming platforms. In the lower right hand corner of the album art is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy. If you prefer to download a copy of **I'm Here to Stay** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/9w2ppqo)** where you can download and purchase **I'm Here to Stay**.
+
 ---
 
 **Lyrics**

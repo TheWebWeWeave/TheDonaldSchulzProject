@@ -20,7 +20,7 @@ This was not one of those songs written in 20 minutes during a recording session
 
 My reasons for recording this and including it into my catalog of songs was the message of hope.  If I could change the world what could that look like?  We are all capable of making changes and even influence change in others.  If you think what can I do? I am only one person.  Think about that one mosquito in a dark bedroom when you are trying to sleep.  Change has never been the result of a committee, it always seems to start from just one person, doing something to make a difference.  We pay it forward and they pay it forward soon we might get our ethics back where we did things because it was the right thing to do and the only fair thing to do.
 
-**Change the World** is now available on all the streaming platforms. Below is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy.
+**Change the World** is now available on all the streaming platforms. In the lower right hand corner of the album art is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy. If you prefer to download a copy of **Change the World** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/o2zrqgo)** where you can download and purchase **Change the World**.
 
 ---
 

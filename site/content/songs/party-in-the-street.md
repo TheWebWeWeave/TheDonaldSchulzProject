@@ -19,6 +19,8 @@ Now, back to 1984, we were all expecting a win as each year since being part of 
 
 I was there in the middle of all this and it really made an impression on me.  I was very proud and loved this city and this team.  The melody and the words for the chorus came to me almost right away and I have been carrying this around with the intention to finish this song but life kept getting in the way.  When I made this decision over a year ago to get back to writing and releasing music, this was one of the many ideas that I had floating around to complete this song. 
 
+**Party in the Street** is now available on all the streaming platforms. In the lower right hand corner of the album art is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy. If you prefer to download a copy of **Party in the Street** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/432y2rq)** where you can download and purchase **Party in the Street**.
+
 ---
 
 **Lyrics**

@@ -22,7 +22,7 @@ We found a clever treat ball that we fill with her kibble and she pushes that ba
 Penny used to bark at all the strangers that we saw on our walk.  She is very protective and this was her warning shot over the bow, "Don't come any closer".  Then one day a kind man had some treats in his pocket that he was giving to his dog when she obeyed a command and instilling good behavior.  He gave Penny a treat and Penny realized if she didn't bark at just everyone they might have a treat for her too.  
 
 **09/06/2023 - Update:**
-Penny for your thoughts is now available on all streaming platforms.  Just click on the Stream Now button at the bottom right hand corner of the Album Art to launch the song using your favorite provider.  We have launchers for all the major ones.  If there is one that you like that is not listed leave a comment in the Comments section below and I'll see what I can do to get that added for you.
+Penny for your thoughts is now available on all streaming platforms.  Just click on the Stream Now button at the bottom right hand corner of the Album Art to launch the song using your favorite provider.  We have launchers for all the major ones.  If there is one that you like that is not listed leave a comment in the Comments section below and I'll see what I can do to get that added for you. If you prefer to download a copy of **Penny for your Thoughts** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/vg4ooww)** where you can download and purchase **Penny for your Thoughts**.
 
 ---
 

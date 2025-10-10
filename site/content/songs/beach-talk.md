@@ -22,7 +22,9 @@ But our happiest time was getting married on the beach in Malibu, California.  I
 
 I hope this song leaves you with a bit of that inspiration and hope that it always gives to us.  Did someone say road trip?  The song is scheduled for release on July 25, 2023.  Take advantage of the **Pre-Save Now** button in the widget below.  You have a choice for several of the streaming platforms that you might be one.  Choose your favorite and it will be delivered to you on release day.
 
-**July 26, 2023 Update:** The song has been released on all streaming platforms.  The button below has a number of the different streaming platforms wired up so you can listen to the song from your favorite streaming platform right from this widget.  These include Spotify, Apple Music, Amazon Music, YouTube and few others.  Check it out and enjoy a day at the beach curtesy of **The Donald Schulz Project**. 
+**July 26, 2023 Update:** The song has been released on all streaming platforms.  The button below has a number of the different streaming platforms wired up so you can listen to the song from your favorite streaming platform right from this widget.  These include Spotify, Apple Music, Amazon Music, YouTube and few others.  Check it out and enjoy a day at the beach curtesy of **The Donald Schulz Project**. If you prefer to download a copy of **Beach Talk** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/094ww03)** where you can download and purchase **Beach Talk**.
+
+Hey, if you are going to the beach you might need a fun bucket hat for the trip. **[You can pick up a couple of hats from my store](https://store.thedonaldschulzproject.com/shop/hats)**. The hats come in black or white, your choice. Thanks for being awsome.
 
 ---
 

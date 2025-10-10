@@ -20,7 +20,7 @@ I ended up moving away and going back into the family business.  I still did dab
 
 I think that this dark cloud followed me around right up until the time I met my wife Mary.  **Mary changed everything.**  The world that I knew up to this point was going to change once more, but this time for the better and the sheer joy of being together.  We have been married for over 20 years now almost as long as I have been in California.  **She is my California girl.**
 
-This song is now released on all streaming platforms.  You can stream it directly from this page by clicking on the play button below.  This is from Spotify.  While you are on Spotify you can follow me and always be notified as soon as any of my new songs become available on this platform.  Sign up for the newletter to get early access before they get released. Thanks again for being a fan, your are **awesome**
+This song is now released on all streaming platforms.  You can stream it directly from this page by clicking on the play button below.  This is from Spotify.  While you are on Spotify you can follow me and always be notified as soon as any of my new songs become available on this platform. If you prefer to download a copy of **Always on my Mind** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/jqqnd9)** where you can download and purchase Always on my Mind.  Sign up for the newletter to get early access before they get released. Thanks again for being a fan, your are **awesome**
 
 **2023-04-28 Update:** I just received a very nice review from Radio Airplay that I just had to share with you all.  It also serves as a place where I can find it myself.
 

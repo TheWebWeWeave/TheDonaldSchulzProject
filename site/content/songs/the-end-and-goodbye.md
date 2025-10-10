@@ -19,4 +19,4 @@ The main inspiration of this song was the ending of Eric Clapton's Layla, which 
 
 To me, this has that same kind of feel to it.  I start it very similar to the way Eric does with just a piano and then builds from that.  I build this Ending song up and then bring it back home exactly the way that it entered.
 
-The official release date for the song is November 28, 2023 where is will be live for streaming on all the streaming platforms.  My launcher on the left will start the song from your prefered streaming service including Spotify, Apple Music, Amazon Music, YouTube and many others.
+The official release date for the song is November 28, 2023 where is will be live for streaming on all the streaming platforms.  My launcher on the left will start the song from your prefered streaming service including Spotify, Apple Music, Amazon Music, YouTube and many others. If you prefer to download a copy of **The End and Goodbye** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/ynzoovp)** where you can download and purchase **The End and Goodbye**.

@@ -23,7 +23,7 @@ I had a lot of fun writing and recording this song.  It is just a nice feel good
 
 ![Review](/images/PlayTheGameReview.png)
 
-**2023-07-19 Update:** Because not everyone might be on Spotify, I have a new launcher that pops up to launch the song on several of the most popular platforms out there.  This includes Spotify, Apple Music, iTunes, Amazon Music, YouTube, Tidal, and Deezer.  Let me know in the comments if there are other streaming platforms that you would like to see included here.  Just click on the Stream Now button to reveal the launcher.
+**2023-07-19 Update:** Because not everyone might be on Spotify, I have a new launcher that pops up to launch the song on several of the most popular platforms out there.  This includes Spotify, Apple Music, iTunes, Amazon Music, YouTube, Tidal, and Deezer.  Let me know in the comments if there are other streaming platforms that you would like to see included here.  Just click on the Stream Now button found in the lower right hand corner of the album art to reveal the launcher. If you prefer to download a copy of **Play the Game** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/l109ygr)** where you can download and purchase **Play the Game**.
 
 ---
 

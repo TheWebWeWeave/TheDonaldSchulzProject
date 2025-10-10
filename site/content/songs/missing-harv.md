@@ -25,6 +25,8 @@ I had gone back to the family business twice with a two year break in between. T
 
 I went back to McEwan University but this time for their Micro Computer program.  Three years after I graduated, I landed a job in California.  This always was a dream of mine; to live here but I always thought that the music would get me here.  But it was the technology.  Unfortunately, this cousin and I never spoke or connected with each other again.  There was no reason not to call and get together with him. It really hit me like a ton of bricks when my mother informed me that he had died.  No one knew that he had cancer, and he died in hospice.  There was no way to let him know how much I appreciated him.  I don't regret the road I took, but I miss him. I still love that style of music. I am sure you can hear that in many of my songs.
 
+**Missing Harv** is now available on all the streaming platforms. In the lower right hand corner of the album art is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy. If you prefer to download a copy of **Missing Harv** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/vggjow2)** where you can download and purchase **Missing Harv**.
+
 ---
 
 **Lyrics**

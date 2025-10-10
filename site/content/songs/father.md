@@ -21,6 +21,8 @@ I had graduated from a two year Micro Systems Specialist Program at McEwan Unive
 
 From the time that I posted my resume for a job in Southern California to getting a response was about a week and three weeks later I was crossing the boarder heading for Santa Monica, California.  I really felt God's presence in my life during that whole situation.  Even the fact that I was turned down twice at the border because of the wording of my Acceptance Letter.  I could hear God say to me, "I will open doors for you my son, but I also expect you to do some of the work as well".  I realized that these border guards don't necessarily understand all the details of the agreement but work from a cue sheet of words to look for.  The law was written using old terminology where a programmer was an unskilled role that punched the punch cards that fed into the mainframe where the Computer Systems Analysis marked them.  My new boss and I got it figured out and like they say third time is the charm.
 
+**Father ( I Give My Life )** is now available on all the streaming platforms. In the lower right hand corner of the album art is a launcher for the song on several streaming platforms.  Choose your favorite streaming platform and enjoy. If you prefer to download a copy of **Father ( I Give My Life )** Click on my **[Store Link](https://store.thedonaldschulzproject.com/product/p/3orlw6w)** where you can download and purchase **Father ( I Give My Life )**.
+
 ---
 
 **Lyrics**
