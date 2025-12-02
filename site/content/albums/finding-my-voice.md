@@ -25,16 +25,16 @@ Now, back to present day, I have had a lot of therapy and a wife that insisted t
 This album, "Finding My Voice" is that journey that I took to finally find my voice and to tell you what I am feeling and why. I like to do this in the form of stories and each of these songs has their own story. I have released each of these songs as singles except for the song that I open this album with. That song "So Soon" has been the song that I did not realize but have been trying to write for the past 50 years or so. You can find the stories behind each of these songs under the songs menu.
 
 ## Song Order
-1. So Soon
-2. Hot Java
-3. Always on my Mind
-4. Party in the Street
-5. Father (I give my Life)
-6. Play the Game
-7. Beach Talk
-8. Penny for your Thoughts
-9. Missing Harv
-10. I'm Here to Stay
-11. Ending and Goodbye
+##### 1. So Soon
+##### [2. Hot Java](/songs/hot-java/)
+##### [3. Always on my Mind](/songs/always-on-my-mind/)
+##### [4. Party in the Street](/songs/party-in-the-street/)
+##### [5. Father (I give my Life)](/songs/father/)
+##### [6. Play the Game](/songs/play-the-game/)
+##### [7. Beach Talk](/songs/beach-talk/)
+##### [8. Penny for your Thoughts](/songs/penny-for-your-thoughts/)
+##### [9. Missing Harv](/songs/missing-harv/)
+##### [10. I'm Here to Stay](/songs/im-here-to-stay/)
+##### [11. The End and Goodbye](/songs/the-end-and-goodbye/)
 
 I would encourage you to listen to this album in this order to experience the journey. This is the order in which things happened, but you get the benefit of having a better understanding of the journey then when I was actually on this road. If you are interested in the actual details of this journey I do have a website where I have documented my life story in pictures and stories.  You can find this at https://www.donaldschulz.com and my story is not complete and will continue to update this website as things happen.
