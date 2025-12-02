@@ -4,7 +4,7 @@ description = "A journey to find my voice. "
 tags =  [
     "history"
 ]
-date = "2025-12-01"
+date = "2025-12-15"
 categories = [
     "Albums"
 ]
