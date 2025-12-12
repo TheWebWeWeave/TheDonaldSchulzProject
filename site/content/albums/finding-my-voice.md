@@ -4,12 +4,12 @@ description = "A journey to find my voice. "
 tags =  [
     "history"
 ]
-date = "2025-12-15"
+date = "2025-12-12"
 categories = [
     "Albums"
 ]
 menu = "main"
-image = ""
+image = "/images/FindingMyVoice-Album Cover.png"
 featureId = ""
 nocomments = false
 +++
