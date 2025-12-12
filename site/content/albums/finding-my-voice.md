@@ -9,8 +9,8 @@ categories = [
     "Albums"
 ]
 menu = "main"
-image = "/images/FindingMyVoice-Album Cover.png"
-featureId = ""
+image = ""
+featureId = "qvarexa.OWE"
 nocomments = false
 +++
 
@@ -25,7 +25,7 @@ Now, back to present day, I have had a lot of therapy and a wife that insisted t
 This album, "Finding My Voice" is that journey that I took to finally find my voice and to tell you what I am feeling and why. I like to do this in the form of stories and each of these songs has their own story. I have released each of these songs as singles except for the song that I open this album with. That song "So Soon" has been the song that I did not realize but have been trying to write for the past 50 years or so. You can find the stories behind each of these songs under the songs menu.
 
 ## Song Order
-##### 1. So Soon
+##### [1. So Soon](/songs/so-soon/)
 ##### [2. Hot Java](/songs/hot-java/)
 ##### [3. Always on my Mind](/songs/always-on-my-mind/)
 ##### [4. Party in the Street](/songs/party-in-the-street/)
