@@ -16,7 +16,7 @@ nocomments = false
 
 When I was eleven years old, my youngest brother passed away. He had a weak heart and it just gave out. The loss was too much for me to bear at such a young age that I turned to music to express my emotions. I could express how I was feeling by playing as a result much of my music was wild, angry, and alot of agression. This led me to my path of writing songs and soon music became my passion.
 
-I think my mother was the only one who understood, even better than me that I was pouring my emotions out in my music. I would play for hours, sometimes the same phrase or pattern over and over again. My Dad might have wanted me to stop but my mother persuaded him to let me be as she knew I wa working something out in my mind and needed to get it out.
+I think my mother was the only one who understood, even better than me that I was pouring my emotions out in my music. I would play for hours, sometimes the same phrase or pattern over and over again. My Dad might have wanted me to stop but my mother persuaded him to let me be as she knew I was working something out in my mind and needed to get it out.
 
 It has only been resently that I have been able to connect the dots. Prior to the loss of my brother, music was something my parents expected me to do. It was part of my schooling but not something I was passionate about. Not knowing how to express my grief, music became that outlet. However, I can say now looking back that my ability to express into words how I was feeling never grew in the way that it should have.
 
