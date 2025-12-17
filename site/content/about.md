@@ -21,6 +21,6 @@ Back in the 70's and 80's it was very rare that you would find that someone had 
 
 I am now going to be releasing pieces under my own name.  I am stepping out and putting a face to the work.  I have lived a very introverted life and preferred to hide behind some other name.  Over the last 20 or so years I have learned more about myself and am comfortable to talk and put into words the things that I am feeling.  Music has always been very therapy for me, I could play what I felt but had trouble putting words to those emotions.  I am in a new phase of my life and feeling like I am finding my voice and with that my songs have more depth and I can say what I really want to say.
 
-If you are interested in getting the my full story you can read about [The Donald Schulz Story:My Jorney](https://www.donaldschulz.com)
+If you are interested in getting the my full story you can read [The Donald Schulz Story: My Jorney](https://www.donaldschulz.com)
 
 {{<figure src="/images/Thunderfoot_calling_card.png">}}
