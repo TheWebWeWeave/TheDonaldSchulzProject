@@ -43,6 +43,6 @@ disqusShortname = "thedonaldschulzproject"
   Email = "thedonaldschulzproject@gmail.com"
   About = 'Welcome to the official website for all things pertaining to "The Donald Schulz Project". Please sign up for our newsletter which is just an email that will be sent when ever we have news to share or annouce new songs that we just released. Get the latest before anyone else does. Thank you for stopping by. Background information on the songs can be found under the songs menu.'
   ProfilePicture = "images/new_TDSP_Logo.png"
-  Favicon = "images/favicon.png"
+  Favicon = "/images/favicon.png"
   BlogOnIndex = false
 
